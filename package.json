@@ -1,0 +1,24 @@
+{
+  "name": "tdd-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonforster822/tdd-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonforster822/tdd-project/issues"
+  },
+  "homepage": "https://github.com/brandonforster822/tdd-project#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0"
+  }
+}
